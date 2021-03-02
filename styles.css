@@ -9,7 +9,7 @@
    --color-three: #1BF51C;
    --color-four: #063606;
    --color-five: #18DB18;
-   --color-six: #f5fff6 /*#E1f7E3*/;
+   --color-six: #f5fff6;
  }
 
 body {
@@ -19,6 +19,10 @@ body {
 
 .navbar {
   background-color: var(--color-five);
+}
+
+h1 {
+  font-family: 'Quicksand', sans-serif;
 }
 
 a {
