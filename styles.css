@@ -1,0 +1,36 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template/shop-homepage)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+ :root {
+   --color-one: #14B514;
+   --color-two: #0D750D;
+   --color-three: #1BF51C;
+   --color-four: #063606;
+   --color-five: #18DB18;
+   --color-six: #f5fff6 /*#E1f7E3*/;
+ }
+
+body {
+  background-color: var(--color-six);
+  padding-top: 56px;
+}
+
+.navbar {
+  background-color: var(--color-five);
+}
+
+a {
+  color: var(--color-three);
+  font-family: 'Quicksand', sans-serif;
+}
+
+a:hover {
+  color: var(--color-one);
+}
+
+p {
+  font-family: 'Martel', serif;
+  color: var(--color-four);
+}
